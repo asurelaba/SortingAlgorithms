@@ -1,9 +1,4 @@
 /*
- * Ashwini Suresh
- * Copyright (c) Ashwini Suresh All Rights Reserved.
- * */
-
-/*
  * Class HelloUser prints the user name that is passed to main method through command line.
  *
  * @version 1.0 12 Apr 2023

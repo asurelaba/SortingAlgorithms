@@ -1,9 +1,4 @@
 /*
- * Ashwini Suresh
- * Copyright (c) Ashwini Suresh All Rights Reserved.
- * */
-
-/*
  * Class BubbleSort is the implementation of the BubbleSort algorithm. It sorts the array
  * of integers in ascending order.
  *
