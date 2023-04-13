@@ -1,9 +1,4 @@
 /*
- * Ashwini Suresh
- * Copyright (c) Ashwini Suresh All Rights Reserved.
- * */
-
-/*
  * Class MergeSort is the implementation of the MergeSort algorithm. It sorts the array
  * of integers in ascending order.
  *
